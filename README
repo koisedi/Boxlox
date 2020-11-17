@@ -1,2 +1,11 @@
 Hello WORLD
 
+
+Kotitehtävä – Harjoitus 3 Edi Koistinen
+
+a) MarkDown. Tee tämän tehtävän raportti MarkDownina. 
+
+Aloitetaan tehtävä komenolla sudo apt-get update. Tämän jälkeen käydään tekemässä GitHubiin xx. 
+
+Tämän kuvan alt-attribuutti on tyhjä; Tiedoston nimi on image-34.png
+Ladataan Git koneelle komenolla sudot apt-get -y install git. Tämän jälkeen syötetään Gitillee tietoja.
